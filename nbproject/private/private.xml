@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/SSDatabaseMetaData.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/FileIndexNode.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/SSCallableStatement.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/CreateFile.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/SSResultSetMetaData.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/SQLParser.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/SQLToken.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/FileIndex.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/Index.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/tools/CommandLine.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/StorePage.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/SSPreparedStatement.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/SSDriver.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/SSSavepoint.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/SSStatement.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/SQLTokenizer.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/MutableLong.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/TableStorePage.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/SSResultSet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/Table.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/CommandSelect.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/smallSQL/src/smallSQL/database/DataSource.java</file>
+        </group>
+    </open-files>
+</project-private>
